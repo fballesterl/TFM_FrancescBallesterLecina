@@ -6,8 +6,10 @@ Proyecto de inteligencia de negocio en el que se va a utilizar diferentes técni
 
 ## Archivos
 
-* `PR2_M2951_fballesterl_oraurell.pdf`: Document amb les respostes plantejades a la pràctica.
-* `data/alojamientos-turisticos-sample.csv`: Conjunt de dades amb informació de diferents allotjaments turistics a Airbnb.
-* `data/clean_alojamientos-turisticos-sample.csv`: Conjunt de dades filtrat.
-* `src/PR2_M2951_fballesterl_oraurell.Rmd`: Fitxer amb l'anàlisi estadistic desenvolupat en R.
-* `src/PR2_M2951_fballesterl_oraurell.html`: Fitxer amb l'anàlisi estadistic desenvolupat en R en format .html.
+* `Proyecto_TFM_FrancescBallesterLecina_v2.html`: Archivo con el código del proyecto desarrollado en python .html.
+* `datasets/Linea1-Usuarios.txt`: Contiene los datos de los registros de los usuarios.
+* `datasets/Linea1-Consumos.txt`: Contiene los datos de los registros de los usuarios.
+* `datasets/Linea1-Sesiones.txt`: Contiene los datos de los consumos promocionales realizados por los usuarios.
+* `datasets/Linea1-Ventas.txt`: Contiene los datos de compra realizadas por los usuarios.
+* `source/Proyecto_TFM_FrancescBallesterLecina_v2.ipynb`: Archivo con el código del proyecto desarrollado en python.
+
